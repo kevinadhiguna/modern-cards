@@ -9,3 +9,5 @@ When you hover on a card, it will float a litle bit like this :<br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/modern-cards/master/demo/2.hover-effect.png" width="90%"></img> <br><br>
 This app is responsive, so three cards in a single row will change to only a single card on a row :<br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/modern-cards/master/demo/3.responsive.png" width="70%"></img>
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/modern-cards)](https://github.com/kevinadhiguna)
